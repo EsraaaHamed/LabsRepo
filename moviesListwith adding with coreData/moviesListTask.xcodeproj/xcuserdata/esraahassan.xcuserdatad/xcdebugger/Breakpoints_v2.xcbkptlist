@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MovieDetailesViewViewController.swift"
+            timestampString = "579006156.78956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "MovieDetailesViewViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.movie.getter : moviesListTask.Movie"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Documents/IosLabs/moviesListTask/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "578826717.939618"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.movie.setter : moviesListTask.Movie"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Documents/IosLabs/moviesListTask/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "578826717.946756"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; moviesListTask.MovieDetailesViewViewController"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Documents/IosLabs/moviesListTask/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "578826717.960238"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "845">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;moviesListTask.MovieDetailesViewViewController&gt;"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Documents/IosLabs/moviesListTask/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "578826717.967562"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MovieDetailesViewViewController.swift"
+            timestampString = "579006156.790339"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MovieDetailesViewViewController.swift"
+            timestampString = "579006156.7908289"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MovieDetailesViewViewController.swift"
+            timestampString = "579006156.791325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MoviesTableViewController.swift"
+            timestampString = "579011766.157377"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MoviesTableViewController.swift"
+            timestampString = "579011766.162185"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MovieDetailesViewViewController.swift"
+            timestampString = "579006156.792046"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MovieDetailesViewViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.movieImg.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Downloads/LabsRepo-master/moviesListwith%20adding/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "579004804.012787"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.movieImg.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Downloads/LabsRepo-master/moviesListwith%20adding/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "579004804.020339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; moviesListTask.MovieDetailesViewViewController"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Downloads/LabsRepo-master/moviesListwith%20adding/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "579004804.037416"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moviesListTask.MovieDetailesViewViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;moviesListTask.MovieDetailesViewViewController&gt;"
+                  moduleName = "moviesListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esraahassan/Downloads/LabsRepo-master/moviesListwith%20adding/moviesListTask/MovieDetailesViewViewController.swift"
+                  timestampString = "579004804.047658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moviesListTask/MoviesTableViewController.swift"
+            timestampString = "579011766.162787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "addNewMovie(newMovie:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
